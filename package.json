@@ -22,6 +22,7 @@
   "devDependencies": {
     "browserify": "^14.0.0",
     "browserify-shim": "^3.8.13",
+    "chai": "^3.5.0",
     "cheerio": "^0.22.0",
     "connect-livereload": "^0.6.0",
     "event-stream": "^3.3.2",
@@ -44,6 +45,7 @@
     "gulp-webdriver": "^2.0.3",
     "gulp-webserver": "^0.9.1",
     "mkdirp": "^0.5.1",
+    "mocha": "^3.2.0",
     "rimraf": "^2.4.2",
     "run-sequence": "^1.1.4",
     "through2": "^2.0.3",
